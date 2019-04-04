@@ -1,4 +1,4 @@
-# Instagram-Auto-Like-Bot
+# Instagram Auto Like Bot
 
 This bot is used to auto like the posts of a target account. 
 
