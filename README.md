@@ -1,6 +1,6 @@
 # Instagram Auto Like Bot
 
-This bot is used to auto like the posts of a target account. 
+This repository contains a bot written in Python which is used to auto like the posts of a target account. 
 
 # What's Needed?
 
